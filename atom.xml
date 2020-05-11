@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://venanastasia.github.io/"/>
-  <updated>2020-05-09T16:29:25.183Z</updated>
+  <updated>2020-05-11T08:34:28.087Z</updated>
   <id>https://venanastasia.github.io/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>动词短语——Basic Verbs</title>
+    <link href="https://venanastasia.github.io/2020/05/11/phraverbs01/"/>
+    <id>https://venanastasia.github.io/2020/05/11/phraverbs01/</id>
+    <published>2020-05-11T07:49:38.000Z</published>
+    <updated>2020-05-11T08:34:28.087Z</updated>
+    
+    <content type="html"><![CDATA[<p>参考书目：《Work on Your Phrasal Verbs》</p><a id="more"></a><h2 id="fall-down">fall down<a title="#fall-down" href="#fall-down"></a></h2><p>eg. He tripped and fell down.</p><h2 id="get-off">get off<a title="#get-off" href="#get-off"></a></h2><blockquote><p>move your body from it, usually onto the ground</p></blockquote><p>eg. He got off his bicycle.</p><h2 id="get-out">get out<a title="#get-out" href="#get-out"></a></h2><blockquote><p>leave a place or a vehicle</p></blockquote><p>eg. We got out of the car.</p><h2 id="get-up">get up<a title="#get-up" href="#get-up"></a></h2><blockquote><ol><li>move from a lower position or level to a higher one</li></ol></blockquote><p>eg. By the time we’d got up tp the top of the hill, we were exhausted.</p><blockquote><ol start="2"><li>rise to a standing position after you have been sitting or lying down</li></ol></blockquote><p>eg. He got up off the floor.</p><blockquote><ol start="3"><li>get out of the bed</li></ol></blockquote><h2 id="go-back">go back<a title="#go-back" href="#go-back"></a></h2><blockquote><p>return to a place where you were before</p></blockquote><p>eg. It started to rain so I went back for my umbrella.</p><h2 id="go-in">go in<a title="#go-in" href="#go-in"></a></h2><h2 id="go-into">go into<a title="#go-into" href="#go-into"></a></h2><p>opposite: go out</p><h2 id="go-off">go off<a title="#go-off" href="#go-off"></a></h2><blockquote><p>leave the place where you were, usually in order to do something</p></blockquote><p>eg. He’s gone off to work.</p><h2 id="keep-down">keep down<a title="#keep-down" href="#keep-down"></a></h2><blockquote><p>stay in a lying or low position in order to avoid being seen or attacked</p></blockquote><p>eg. The soilder signalled to him to keep down.</p><h2 id="lay-down">lay down<a title="#lay-down" href="#lay-down"></a></h2><p>eg. He laid the baby gently down on the changing table.</p><h2 id="move-up">move up<a title="#move-up" href="#move-up"></a></h2><blockquote><p>go from a lower place to a higher one</p></blockquote><p>eg. The sun had moved up in the sky.</p><h2 id="run-in">run in<a title="#run-in" href="#run-in"></a></h2><h2 id="run-into">run into<a title="#run-into" href="#run-into"></a></h2><h2 id="run-on">run on<a title="#run-on" href="#run-on"></a></h2><blockquote><p>continue to run in the same direction</p></blockquote><p>eg. I ran on ahead.</p><h2 id="run-out">run out<a title="#run-out" href="#run-out"></a></h2><blockquote><ol><li>leave it, running</li></ol></blockquote><blockquote><ol start="2"><li>If a substance runs out from somewhere, it flows from there.</li></ol></blockquote><p>eg. Water was running out from under the front door of the house.</p><h2 id="sit-down">sit down<a title="#sit-down" href="#sit-down"></a></h2><p>eg. She sat herself down beside me.</p><h2 id="stand-up">stand up<a title="#stand-up" href="#stand-up"></a></h2><p>= get up</p><h2 id="turn-back">turn back<a title="#turn-back" href="#turn-back"></a></h2><blockquote><p>stop a journey and return towards the place you started from</p></blockquote><p>eg. We were turned back by heavy snow.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;参考书目：《Work on Your Phrasal Verbs》&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Prasal Verbs" scheme="https://venanastasia.github.io/categories/Prasal-Verbs/"/>
+    
+    
+      <category term="Loving English" scheme="https://venanastasia.github.io/tags/Loving-English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机名词缩写</title>
+    <link href="https://venanastasia.github.io/2020/05/10/zaliang04/"/>
+    <id>https://venanastasia.github.io/2020/05/10/zaliang04/</id>
+    <published>2020-05-10T14:30:06.000Z</published>
+    <updated>2020-05-10T15:13:38.435Z</updated>
+    
+    <content type="html"><![CDATA[<p>整理自《深入理解计算机系统（3th）》。</p><a id="more"></a><h1 id="第一章-计算机系统漫游">第一章 计算机系统漫游<a title="#第一章-计算机系统漫游" href="#第一章-计算机系统漫游"></a></h1><h2 id="ansi">ANSI<a title="#ansi" href="#ansi"></a></h2><p>American National Standards Institute  美国国家标准学会<br>相关：ANSI　C</p><h2 id="iso">ISO<a title="#iso" href="#iso"></a></h2><p>International Standards Organization 国际标准化组织</p><h2 id="k&amp;r">K&amp;R<a title="#k&amp;r" href="#k&amp;r"></a></h2><p>Kernaghan和Ritchie合著的一本介绍C语言（ANSI C）的权威经典著作《C程序设计语言》。</p><h2 id="gnu">GNU<a title="#gnu" href="#gnu"></a></h2><p>GNU是GNU’s Not Unix的缩写，是1984年由Richard Stallman发起的一个免税的慈善项目。该项目已经开发出了一个包含Unix操作系统的所有主要部件的环境。</p><h2 id="gcc">GCC<a title="#gcc" href="#gcc"></a></h2><p>GCC是GNU项目开发出来的众多有用工具之一。GCC编译器可以支持多种语言，能够为许多不同的机器生成代码。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;整理自《深入理解计算机系统（3th）》。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="杂粮库" scheme="https://venanastasia.github.io/categories/%E6%9D%82%E7%B2%AE%E5%BA%93/"/>
+    
+    
+      <category term="To be professional" scheme="https://venanastasia.github.io/tags/To-be-professional/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法自查手册</title>
@@ -49,9 +95,9 @@
     <link href="https://venanastasia.github.io/2020/05/09/java01/"/>
     <id>https://venanastasia.github.io/2020/05/09/java01/</id>
     <published>2020-05-09T10:46:57.000Z</published>
-    <updated>2020-05-09T16:22:27.799Z</updated>
+    <updated>2020-05-11T08:29:13.453Z</updated>
     
-    <content type="html"><![CDATA[<p>参考书目：《Java核心技术卷一基础知识（10th）》</p><a id="more"></a><h2 id="第1章-java程序设计概述">第1章 Java程序设计概述<a title="#第1章-java程序设计概述" href="#第1章-java程序设计概述"></a></h2><h2 id="第2章-java程序设计环境">第2章 Java程序设计环境<a title="#第2章-java程序设计环境" href="#第2章-java程序设计环境"></a></h2><h2 id="第3章-java的基本程序设计结构">第3章 Java的基本程序设计结构<a title="#第3章-java的基本程序设计结构" href="#第3章-java的基本程序设计结构"></a></h2><details><summary>展开</summary><ul><li><h2 id="注释">注释<a title="#注释" href="#注释"></a></h2></li><li><p>数据类型</p><details><summary>展开</summary>  整型；浮点类型；char类型；Unicode和char类型；boolean类型</details></li><li><p>变量</p></li><li><p>运算符</p></li><li><p>字符串</p></li><li><p>输入输出</p><details><summary>展开</summary>读取输入；格式化输入；文件输入与输出</details></li><li><p>控制流程</p></li><li><p>大数值</p></li><li><p>数组</p></li></ul></details><h2 id="第4章-对象与类">第4章 对象与类<a title="#第4章-对象与类" href="#第4章-对象与类"></a></h2><details><summary>展开</summary><ul><li>面向对象程序设计概述</li><li>使用预定义类</li><li>用户自定义类</li><li>静态域与静态方法</li><li>方法参数</li><li>对象构造</li><li>包</li><li>类路径</li><li>文档注释</li><li>类设计技巧</li></ul></details><h2 id="第5章-继承">第5章 继承<a title="#第5章-继承" href="#第5章-继承"></a></h2><details><summary>展开</summary><ul><li>类、超类和子类</li><li>Object：所有类的超类</li><li>泛型数组列表</li><li>对象包装器与自动装箱</li><li>参数数量可变的方法</li><li>枚举类</li><li>反射</li></ul></details><h2 id="第6章-接口、lambda表达式与内部类">第6章 接口、lambda表达式与内部类<a title="#第6章-接口、lambda表达式与内部类" href="#第6章-接口、lambda表达式与内部类"></a></h2><details><summary>展开</summary><ul><li>接口</li><li>接口示例</li><li>lambda表达式</li><li>内部类</li><li>代理</li></ul></details><h2 id="第7章-异常、断言和日志">第7章 异常、断言和日志<a title="#第7章-异常、断言和日志" href="#第7章-异常、断言和日志"></a></h2>]]></content>
+    <content type="html"><![CDATA[<p>参考书目：《Java核心技术卷一基础知识（10th）》</p><a id="more"></a><h2 id="第1章-java程序设计概述">第1章 Java程序设计概述<a title="#第1章-java程序设计概述" href="#第1章-java程序设计概述"></a></h2><h2 id="第2章-java程序设计环境">第2章 Java程序设计环境<a title="#第2章-java程序设计环境" href="#第2章-java程序设计环境"></a></h2><h2 id="第3章-java的基本程序设计结构">第3章 Java的基本程序设计结构<a title="#第3章-java的基本程序设计结构" href="#第3章-java的基本程序设计结构"></a></h2><details><summary>展开</summary><ul><li><p>注释</p></li><li><p>数据类型</p><details><summary>展开</summary>  整型；浮点类型；char类型；Unicode和char类型；boolean类型</details></li><li><p>变量</p></li><li><p>运算符</p></li><li><p>字符串</p></li><li><p>输入输出</p><details><summary>展开</summary>读取输入；格式化输入；文件输入与输出</details></li><li><p>控制流程</p></li><li><p>大数值</p></li><li><p>数组</p></li></ul></details><h2 id="第4章-对象与类">第4章 对象与类<a title="#第4章-对象与类" href="#第4章-对象与类"></a></h2><details><summary>展开</summary><ul><li>面向对象程序设计概述</li><li>使用预定义类</li><li>用户自定义类</li><li>静态域与静态方法</li><li>方法参数</li><li>对象构造</li><li>包</li><li>类路径</li><li>文档注释</li><li>类设计技巧</li></ul></details><h2 id="第5章-继承">第5章 继承<a title="#第5章-继承" href="#第5章-继承"></a></h2><details><summary>展开</summary><ul><li>类、超类和子类</li><li>Object：所有类的超类</li><li>泛型数组列表</li><li>对象包装器与自动装箱</li><li>参数数量可变的方法</li><li>枚举类</li><li>反射</li></ul></details><h2 id="第6章-接口、lambda表达式与内部类">第6章 接口、lambda表达式与内部类<a title="#第6章-接口、lambda表达式与内部类" href="#第6章-接口、lambda表达式与内部类"></a></h2><details><summary>展开</summary><ul><li>接口</li><li>接口示例</li><li>lambda表达式</li><li>内部类</li><li>代理</li></ul></details><h2 id="第7章-异常、断言和日志">第7章 异常、断言和日志<a title="#第7章-异常、断言和日志" href="#第7章-异常、断言和日志"></a></h2>]]></content>
     
     <summary type="html">
     
@@ -71,18 +117,19 @@
   
   <entry>
     <title>那些不怎么正经的算法知识~</title>
-    <link href="https://venanastasia.github.io/2020/03/27/zaliang05/"/>
-    <id>https://venanastasia.github.io/2020/03/27/zaliang05/</id>
+    <link href="https://venanastasia.github.io/2020/03/27/zaliang03/"/>
+    <id>https://venanastasia.github.io/2020/03/27/zaliang03/</id>
     <published>2020-03-27T13:26:50.000Z</published>
-    <updated>2020-04-10T12:58:35.796Z</updated>
+    <updated>2020-05-10T14:29:28.781Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="费曼算法（feynman-algorithm）">费曼算法（Feynman algorithm）<a href="#费曼算法（feynman-algorithm）" title="费曼算法（Feynman algorithm）"></a></h2><p>这个算法是物理学家，理查德·费曼命名的，算法步骤如下：<br>（1）将问题写下来<br>（2）好好思考<br>（3）将答案写下来<br>计算机科学家真是一群不按常理出牌的人啊！</p><p>出处：《算法图解》</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="费曼算法（feynman-algorithm）">费曼算法（Feynman algorithm）<a title="#费曼算法（feynman-algorithm）" href="#费曼算法（feynman-algorithm）"></a></h2><p>这个算法是物理学家，理查德·费曼命名的，算法步骤如下：<br>（1）将问题写下来<br>（2）好好思考<br>（3）将答案写下来<br>计算机科学家真是一群不按常理出牌的人啊！</p><p>出处：《算法图解》</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;费曼算法（feynman-algorithm）&quot;&gt;费曼算法（Feynman algorithm）&lt;a href=&quot;#费曼算法（feynman-algorithm）&quot; title=&quot;费曼算法（Feynman algorithm）&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;这个算法是
+        &lt;h2 id=&quot;费曼算法（feynman-algorithm）&quot;&gt;费曼算法（Feynman algorithm）&lt;a title=&quot;#费曼算法（feynman-algorithm）&quot; href=&quot;#费曼算法（feynman-algorithm）&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;这个算
       
     
     </summary>
@@ -225,18 +272,20 @@
   
   <entry>
     <title>“Error:(1, 1) java:非法字符‘\ufeff’”错误解决办法</title>
-    <link href="https://venanastasia.github.io/2020/03/06/zaliang04/"/>
-    <id>https://venanastasia.github.io/2020/03/06/zaliang04/</id>
+    <link href="https://venanastasia.github.io/2020/03/06/java03/"/>
+    <id>https://venanastasia.github.io/2020/03/06/java03/</id>
     <published>2020-03-06T15:13:18.000Z</published>
-    <updated>2020-04-10T12:58:10.185Z</updated>
+    <updated>2020-05-10T14:29:21.282Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="出现原因">出现原因<a href="#出现原因" title="出现原因"></a></h2><p>用Windows记事本打开并修改.java文件保存后重新编译运行项目出现“Error:(1, 1) java: 非法字符: ‘\ufeff’”错误。<br>这是因为Windows记事本在修改UTF-8文件时会在文件开头添加BOM，导致IDEA不能正确读取.java文件从而报错。</p><h2 id="解决方法">解决方法<a href="#解决方法" title="解决方法"></a></h2><p>在编辑器IDEA中将文件编码更改为UTF-16，再改回UTF-8即可，其实就相当于刷新了一下文件编码。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="出现原因">出现原因<a title="#出现原因" href="#出现原因"></a></h2><p>用Windows记事本打开并修改.java文件保存后重新编译运行项目出现“Error:(1, 1) java: 非法字符: ‘\ufeff’”错误。<br>这是因为Windows记事本在修改UTF-8文件时会在文件开头添加BOM，导致IDEA不能正确读取.java文件从而报错。</p><h2 id="解决方法">解决方法<a title="#解决方法" href="#解决方法"></a></h2><p>在编辑器IDEA中将文件编码更改为UTF-16，再改回UTF-8即可，其实就相当于刷新了一下文件编码。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;出现原因&quot;&gt;出现原因&lt;a href=&quot;#出现原因&quot; title=&quot;出现原因&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;用Windows记事本打开并修改.java文件保存后重新编译运行项目出现“Error:(1, 1) java: 非法字符: ‘\ufeff’”错误。&lt;br&gt;这是因
+        &lt;h2 id=&quot;出现原因&quot;&gt;出现原因&lt;a title=&quot;#出现原因&quot; href=&quot;#出现原因&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;用Windows记事本打开并修改.java文件保存后重新编译运行项目出现“Error:(1, 1) java: 非法字符: ‘\ufeff’”错误。&lt;br&gt;
+
       
     
     </summary>
@@ -253,19 +302,23 @@
   
   <entry>
     <title>Java中floorMod方法的理解</title>
-    <link href="https://venanastasia.github.io/2020/02/28/zaliang03/"/>
-    <id>https://venanastasia.github.io/2020/02/28/zaliang03/</id>
+    <link href="https://venanastasia.github.io/2020/02/28/java02/"/>
+    <id>https://venanastasia.github.io/2020/02/28/java02/</id>
     <published>2020-02-28T06:11:01.000Z</published>
-    <updated>2020-04-10T13:46:29.116Z</updated>
+    <updated>2020-05-10T14:29:12.380Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="概念对比">概念对比<a href="#概念对比" title="概念对比"></a></h2><div class="φcz"><div class="φdb"><table><thead><tr><th>名称</th><th>含义</th><th>示例</th></tr></thead><tbody><tr><td>%</td><td>求余(rem)</td><td>(+4 % -3)== +1</td></tr><tr><td>floorMod()</td><td>取模(mod)</td><td>floorMod(+4,-3)== -2</td></tr></tbody></table></div></div><h2 id="本质区别">本质区别<a href="#本质区别" title="本质区别"></a></h2><p>对于整型数a，b来说，取模运算或者求余运算的方法都是：<br>1.求 整数商： c = a/b;<br>2.计算模或者余数： r = a - c*b.</p><p>求模运算和求余运算在第一步不同: <strong>取余运算在取c的值时，向0方向舍入；而取模运算在计算c的值时，向负无穷方向舍入</strong>。</p><p>例：</p><div class="φcz"><div class="φdb"><table><thead><tr><th style="padding:0"></th><th>+4 % -3</th><th>floorMod(+4,-3)</th></tr></thead><tbody><tr><td>a=</td><td>+4</td><td>+4</td></tr><tr><td>b=</td><td>-3</td><td>-3</td></tr><tr><td>c=</td><td><strong>-1</strong></td><td><strong>-2</strong></td></tr><tr><td>r=</td><td>+1</td><td>-2</td></tr></tbody></table></div></div><h2 id="巧记">巧记<a href="#巧记" title="巧记"></a></h2><p>当a,b同号时，求余运算与取模运算结果相同，符号与a（被除数）相同；否则，取模运算的符号与b（除数）相同。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="概念对比">概念对比<a title="#概念对比" href="#概念对比"></a></h2><div class="φcy"><div class="φda"><table><thead><tr><th>名称</th><th>含义</th><th>示例</th></tr></thead><tbody><tr><td>%</td><td>求余(rem)</td><td>(+4 % -3)== +1</td></tr><tr><td>floorMod()</td><td>取模(mod)</td><td>floorMod(+4,-3)== -2</td></tr></tbody></table></div></div><h2 id="本质区别">本质区别<a title="#本质区别" href="#本质区别"></a></h2><p>对于整型数a，b来说，取模运算或者求余运算的方法都是：<br>1.求 整数商： c = a/b;<br>2.计算模或者余数： r = a - c*b.</p><p>求模运算和求余运算在第一步不同: <strong>取余运算在取c的值时，向0方向舍入；而取模运算在计算c的值时，向负无穷方向舍入</strong>。</p><p>例：</p><div class="φcy"><div class="φda"><table><thead><tr><th style="padding:0"></th><th>+4 % -3</th><th>floorMod(+4,-3)</th></tr></thead><tbody><tr><td>a=</td><td>+4</td><td>+4</td></tr><tr><td>b=</td><td>-3</td><td>-3</td></tr><tr><td>c=</td><td><strong>-1</strong></td><td><strong>-2</strong></td></tr><tr><td>r=</td><td>+1</td><td>-2</td></tr></tbody></table></div></div><h2 id="巧记">巧记<a title="#巧记" href="#巧记"></a></h2><p>当a,b同号时，求余运算与取模运算结果相同，符号与a（被除数）相同；否则，取模运算的符号与b（除数）相同。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;概念对比&quot;&gt;概念对比&lt;a href=&quot;#概念对比&quot; title=&quot;概念对比&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&quot;φcz&quot;&gt;&lt;div class=&quot;φdb&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;
-&lt;th&gt;名称&lt;/th&gt;&lt;th&gt;含义&lt;/th&gt;&lt;th&gt;示例&lt;/t
+        &lt;h2 id=&quot;概念对比&quot;&gt;概念对比&lt;a title=&quot;#概念对比&quot; href=&quot;#概念对比&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;div class=&quot;φcy&quot;&gt;&lt;div class=&quot;φda&quot;&gt;&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;th&gt;
       
     
     </summary>
@@ -472,54 +525,6 @@
     
     
       <category term="Loving English" scheme="https://venanastasia.github.io/tags/Loving-English/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sentence Patterns 03</title>
-    <link href="https://venanastasia.github.io/2019/11/11/sentence03/"/>
-    <id>https://venanastasia.github.io/2019/11/11/sentence03/</id>
-    <published>2019-11-11T02:44:52.000Z</published>
-    <updated>2020-02-27T09:57:24.493Z</updated>
-    
-    <content type="html"><![CDATA[<p>分词 &amp; 不定式</p><a id="more"></a><h2 id="how-does-the-book-look-like">How does the book look like?<a href="#how-does-the-book-look-like" title="How does the book look like?"></a></h2><p><img src="https://s2.ax1x.com/2019/10/30/KhKb24.png" class="φcy" alt="space"></p><h2 id="how-to-get-one">How to get one?<a href="#how-to-get-one" title="How to get one?"></a></h2><a href="https://shop16653392.m.youzan.com/wscgoods/detail/2xa7l3pn0sp5k?redirect_count=1" title="" target="">Buy it!</a><p> ´●_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ٩( ‘ω’ )و  get! _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _●`</p><h2 id="1-there-is-no-doing">1. there is no doing<a href="#1-there-is-no-doing" title="1. there is no doing"></a></h2><h3 id="该句型与it-is-impossible-to-do-sth的意思是相同的，表示是不可能的；是不被允许的，后面可以是动名词或者名词。很多禁止标语nov-ing即是由本句型而来，比如no-smoking。"><code>该句型与It is impossible to do sth.的意思是相同的，表示“……是不可能的；……是不被允许的”，后面可以是动名词或者名词。很多禁止标语No+V-ing即是由本句型而来，比如No Smoking。</code><a href="#该句型与it-is-impossible-to-do-sth的意思是相同的，表示是不可能的；是不被允许的，后面可以是动名词或者名词。很多禁止标语nov-ing即是由本句型而来，比如no-smoking。" title="该句型与It is impossible to do sth.的意思是相同的，表示“……是不可能的；……是不被允许的”，后面可以是动名词或者名词。很多禁止标语No+V-ing即是由本句型而来，比如No Smoking。"></a></h3><p>不可否认，传统文化对我们塑造正确的价值观有积极的意义。<br>There is no denying that traditional culture has a positive meaning for us to shape the correct values.</p><p>渴望成功的人可以是坚定的。一旦他们决定做某事，就没有什么可以阻止他们。<br>People who yearn for success can be adamant: there is no holding them back once they decide to do something.</p><p>健康的饮食习惯是否能够保证你活到100岁无从得知，但它能保护你免受很多疾病的困扰。<br>There is no knowing whether a healthy diet can guarantee you to live to 100 years old, but it can protect you from many diseases.</p><p>这个世界是不可预测的，所以没有人知道未来几年科技能有多大的进步。<br>The world is unpredictable, so there is no telling how far technology can advance in the up-coming years.</p><h2 id="2-v-ing--v-ed">2. V-ing / V-ed<a href="#2-v-ing--v-ed" title="2. V-ing / V-ed"></a></h2><h3 id="分词构句主要是由状语从句以及and连接的对等从句而来。"><code>分词构句主要是由状语从句以及and连接的对等从句而来。</code><a href="#分词构句主要是由状语从句以及and连接的对等从句而来。" title="分词构句主要是由状语从句以及and连接的对等从句而来。"></a></h3><h3 id="表时间、原因、条件、让步的状语从句，其主语与主要从句相同时，可将主语省略并把动词改为分词，主动时用现在分词，被动时用过去分词。"><code>表时间、原因、条件、让步的状语从句，其主语与主要从句相同时，可将主语省略并把动词改为分词，主动时用现在分词，被动时用过去分词。</code><a href="#表时间、原因、条件、让步的状语从句，其主语与主要从句相同时，可将主语省略并把动词改为分词，主动时用现在分词，被动时用过去分词。" title="表时间、原因、条件、让步的状语从句，其主语与主要从句相同时，可将主语省略并把动词改为分词，主动时用现在分词，被动时用过去分词。"></a></h3><h3 id="状语从句改为分词从句时，如果不造成句意混淆，可将连接词省略，我们以下面这个句子做示范："><code>状语从句改为分词从句时，如果不造成句意混淆，可将连接词省略，我们以下面这个句子做示范：</code><a href="#状语从句改为分词从句时，如果不造成句意混淆，可将连接词省略，我们以下面这个句子做示范：" title="状语从句改为分词从句时，如果不造成句意混淆，可将连接词省略，我们以下面这个句子做示范："></a></h3><p>尽管政府还没有出台有效的保护环境的政策，但政府召集很多教授来开会讨论。<br>Although the government has not introduced effective policies to protect the environment, the government has convened many professors to discuss the issue.</p><h5 id="因为两个分句里主语都是the-government，所以第一步可以将although引导的状语从句改为分词从句：">因为两个分句里主语都是the government，所以第一步可以将although引导的状语从句改为分词从句：<a href="#因为两个分句里主语都是the-government，所以第一步可以将although引导的状语从句改为分词从句：" title="因为两个分句里主语都是the government，所以第一步可以将although引导的状语从句改为分词从句："></a></h5><p>Although not having introduced effective policies to protect the environment, the government has convened many professors to discuss the issue.</p><h5 id="随后，因为although去掉后句意并没有明显影响，所以可以将although这个连词去掉，最后写成">随后，因为although去掉后句意并没有明显影响，所以可以将although这个连词去掉，最后写成:<a href="#随后，因为although去掉后句意并没有明显影响，所以可以将although这个连词去掉，最后写成" title="随后，因为although去掉后句意并没有明显影响，所以可以将although这个连词去掉，最后写成:"></a></h5><p>Not having introduced effective policies to protect the environment, the government has convened many professors to discuss the issue.</p><h2 id="3-tooto">3. too…to<a href="#3-tooto" title="3. too…to"></a></h2><h3 id="-too--adjadv--for-sbsth--to--v，该句型带有否定意思，不定式前面可以加上for-sbsth来表明对象。本句型的主语通常也是后接不定式的宾语，所以不定式后面不用再接宾语。比如：the-water-is-too-hot-to-drink-it这种表达是错误的，it应该被去掉，我们可以这么说：the-water-is-too-hot-to-drink"><code>-too + adj./adv. + (for sb./sth.) + to + V.，该句型带有否定意思，不定式前面可以加上for sb./sth.来表明对象。本句型的主语通常也是后接不定式的宾语，所以不定式后面不用再接宾语。比如：The water is too hot to drink it.这种表达是错误的，it应该被去掉，我们可以这么说：The water is too hot to drink.</code><a href="#-too--adjadv--for-sbsth--to--v，该句型带有否定意思，不定式前面可以加上for-sbsth来表明对象。本句型的主语通常也是后接不定式的宾语，所以不定式后面不用再接宾语。比如：the-water-is-too-hot-to-drink-it这种表达是错误的，it应该被去掉，我们可以这么说：the-water-is-too-hot-to-drink" title="-too + adj./adv. + (for sb./sth.) + to + V.，该句型带有否定意思，不定式前面可以加上for sb./sth.来表明对象。本句型的主语通常也是后接不定式的宾语，所以不定式后面不用再接宾语。比如：The water is too hot to drink it.这种表达是错误的，it应该被去掉，我们可以这么说：The water is too hot to drink."></a></h3><p>城市里的空气太差，以至于市民早上不能在室外跑步。<br>The air in the city is too bad for people to run outdoors in the morning.</p><p>科技发展得太快，以至于老年人跟不上它的步伐。<br>Technology is developing too fast for the elderly to keep up with.</p><p>老师布置的家庭作业太多学生完不成。<br>The homework assigned by teachers is too much for students to finish.</p><p>有些人太以自我为中心，以至于她们的伙伴没法与他们合作。<br>Some people are too self-centered for their partners to cooperate with.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;分词 &amp;amp; 不定式&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="English Writing" scheme="https://venanastasia.github.io/categories/English-Writing/"/>
-    
-    
-      <category term="Loving English" scheme="https://venanastasia.github.io/tags/Loving-English/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>循环结构程序设计</title>
-    <link href="https://venanastasia.github.io/2019/11/11/for-competition01/"/>
-    <id>https://venanastasia.github.io/2019/11/11/for-competition01/</id>
-    <published>2019-11-11T02:04:44.000Z</published>
-    <updated>2020-02-27T09:58:31.751Z</updated>
-    
-    <content type="html"><![CDATA[<p>for, while</p><a id="more"></a><h2 id="1-for循环">1. for循环<a href="#1-for循环" title="1. for循环"></a></h2><h3 id="格式：for初始化；条件；调整-循环体"><code>格式：for(初始化；条件；调整) 循环体;</code><a href="#格式：for初始化；条件；调整-循环体" title="格式：for(初始化；条件；调整) 循环体;"></a></h3><blockquote><p>Tips：尽量缩短变量的定义范围。例如，在for循环的初始化部分定义循环变量。</p></blockquote><ul><li><p>例题2-1 aabb:<br>输出所有形如aabb的4位完全平方数。</p><p>示例1：(7744)</p><p>示例2：（枚举平方根x）</p></li></ul><h2 id="2-while循环">2. while循环<a href="#2-while循环" title="2. while循环"></a></h2><h3 id="格式：-while条件-循环体调整"><code>格式： while(条件) 循环体;调整;</code><a href="#格式：-while条件-循环体调整" title="格式： while(条件) 循环体;调整;"></a></h3><blockquote><p>Tips: (1) 当需要统计某种事物的个数时，可以用一个变量来充当计数器；<br>      (2) 不要忘记测试。一个看上去正确的程序可能隐含错误。<br>      (3) 在观察无法找出错误时，可以用“输出中间结果”的方法查错。</p></blockquote><ul><li><p>例题2-2 3n+1问题:<br>猜想：对于任意大于1的自然数n，若n为奇数，则将n变为3n+1，否则变为n的一半。经过若干次这样的变换，一定会使n变为1。例如，3→10→5→16→8→4→2→1。输入n，输出变换的次数。n≤10⁹。</p><p>示例：(3-&gt;7)</p></li><li><p>例题2-3 近似计算：</p><p>示例：(0.785399)</p></li></ul><h2 id="3循环的代价">3.循环的代价<a href="#3循环的代价" title="3.循环的代价"></a></h2><ul><li><p>例题2-4 阶乘之和：<br>输入n，计算S=1!+2!+3！+……+n！的末6位（不含前导0）。n&lt;=（10的6次方），n！表示前n个正整数之积。</p><p>示例：(10-&gt;37913)</p><p>修改版:</p></li></ul><h2 id="4算法竞赛中的输入输出框架">4.算法竞赛中的输入输出框架<a href="#4算法竞赛中的输入输出框架" title="4.算法竞赛中的输入输出框架"></a></h2><blockquote><p>Tips: (1) 变量在未赋值之前的值是不确定的，它不一定等于0。<br>(2) 使用文件的方法——使用输入输出重定向，在mian函数的入口处加入：freopen(“input.txt”,”r”,stdin); freopen(“output.txt”,”w”,stdout)</p></blockquote><ul><li><p>例2-5 数据统计：<br>输入一些整数，求出它们的最小值、最大值和平均值（保留3位小数）。输入保证这些数都是不超过1000的整数。<br>示例1（重定向版）：</p><p>示例2：（fopen版）</p></li><li><p>例2-6 数据统计Ⅱ<br>输入一些整数，求出它们的最小值、最大值和平均值（保留3位小数）。输入保证这些数都是不超过1000的数。输入包含多组数据，每组数据第一行是整数个数n，第二行是n个整数。n=0为输入结束标记，程序应当忽略这组数据。相邻两组数据之间应输入一个空行。<br>样例输入：<br>8<br>2 8 3 5 1 7 3 6<br>4<br>-4 6 10 0<br>0<br>样例输出：<br>Case 1：1 8 4.375<br>Case 2：-4 10 3.000</p></li></ul><figure class="highlight c"><figcaption><span>2-6 数据统计Ⅱ</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> INF 1000000000</span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="keyword">int</span> x,n=<span class="number">0</span>,s=<span class="number">0</span>,kase=<span class="number">0</span>;  </span><br><span class="line"><span class="keyword">while</span>(<span class="built_in">scanf</span>(<span class="string">"%d"</span>,&amp;n)==<span class="number">1</span> &amp;&amp; n)    </span><br><span class="line"><span class="comment">//  n为输入标记，判断scanf的返回值是为了增加程序的“鲁棒性”(robustness)即健壮性</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">int</span> s=<span class="number">0</span>;        <span class="comment">//求和</span></span><br><span class="line"><span class="keyword">int</span> <span class="built_in">min</span>=INF,<span class="built_in">max</span>=-INF;   <span class="comment">//变量重置！！！</span></span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;n;i++)</span><br><span class="line">&#123;</span><br><span class="line"><span class="built_in">scanf</span>(<span class="string">"%d"</span>,&amp;x);     </span><br><span class="line">s+=x;</span><br><span class="line"><span class="keyword">if</span>(x&lt;<span class="built_in">min</span>) <span class="built_in">min</span>=x;</span><br><span class="line"><span class="keyword">if</span>(x&gt;<span class="built_in">max</span>) <span class="built_in">max</span>=x;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">if</span>(kase) <span class="built_in">printf</span>(<span class="string">"\n"</span>);    <span class="comment">//加空行</span></span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"Case %d: %d %d %.3f\n"</span>,++kase,<span class="built_in">max</span>,<span class="built_in">min</span>,(<span class="keyword">double</span>)s/n); </span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;for, while&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="For competition" scheme="https://venanastasia.github.io/categories/For-competition/"/>
-    
-      <category term="Beginning Algorithm Contests(2nd)" scheme="https://venanastasia.github.io/categories/For-competition/Beginning-Algorithm-Contests-2nd/"/>
-    
-    
-      <category term="To be professional" scheme="https://venanastasia.github.io/tags/To-be-professional/"/>
     
   </entry>
   
