@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://venanastasia.github.io/"/>
-  <updated>2020-05-11T08:34:28.087Z</updated>
+  <updated>2020-05-11T11:23:11.037Z</updated>
   <id>https://venanastasia.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://venanastasia.github.io/2020/05/11/phraverbs01/"/>
     <id>https://venanastasia.github.io/2020/05/11/phraverbs01/</id>
     <published>2020-05-11T07:49:38.000Z</published>
-    <updated>2020-05-11T08:34:28.087Z</updated>
+    <updated>2020-05-11T11:23:11.037Z</updated>
     
     <content type="html"><![CDATA[<p>参考书目：《Work on Your Phrasal Verbs》</p><a id="more"></a><h2 id="fall-down">fall down<a title="#fall-down" href="#fall-down"></a></h2><p>eg. He tripped and fell down.</p><h2 id="get-off">get off<a title="#get-off" href="#get-off"></a></h2><blockquote><p>move your body from it, usually onto the ground</p></blockquote><p>eg. He got off his bicycle.</p><h2 id="get-out">get out<a title="#get-out" href="#get-out"></a></h2><blockquote><p>leave a place or a vehicle</p></blockquote><p>eg. We got out of the car.</p><h2 id="get-up">get up<a title="#get-up" href="#get-up"></a></h2><blockquote><ol><li>move from a lower position or level to a higher one</li></ol></blockquote><p>eg. By the time we’d got up tp the top of the hill, we were exhausted.</p><blockquote><ol start="2"><li>rise to a standing position after you have been sitting or lying down</li></ol></blockquote><p>eg. He got up off the floor.</p><blockquote><ol start="3"><li>get out of the bed</li></ol></blockquote><h2 id="go-back">go back<a title="#go-back" href="#go-back"></a></h2><blockquote><p>return to a place where you were before</p></blockquote><p>eg. It started to rain so I went back for my umbrella.</p><h2 id="go-in">go in<a title="#go-in" href="#go-in"></a></h2><h2 id="go-into">go into<a title="#go-into" href="#go-into"></a></h2><p>opposite: go out</p><h2 id="go-off">go off<a title="#go-off" href="#go-off"></a></h2><blockquote><p>leave the place where you were, usually in order to do something</p></blockquote><p>eg. He’s gone off to work.</p><h2 id="keep-down">keep down<a title="#keep-down" href="#keep-down"></a></h2><blockquote><p>stay in a lying or low position in order to avoid being seen or attacked</p></blockquote><p>eg. The soilder signalled to him to keep down.</p><h2 id="lay-down">lay down<a title="#lay-down" href="#lay-down"></a></h2><p>eg. He laid the baby gently down on the changing table.</p><h2 id="move-up">move up<a title="#move-up" href="#move-up"></a></h2><blockquote><p>go from a lower place to a higher one</p></blockquote><p>eg. The sun had moved up in the sky.</p><h2 id="run-in">run in<a title="#run-in" href="#run-in"></a></h2><h2 id="run-into">run into<a title="#run-into" href="#run-into"></a></h2><h2 id="run-on">run on<a title="#run-on" href="#run-on"></a></h2><blockquote><p>continue to run in the same direction</p></blockquote><p>eg. I ran on ahead.</p><h2 id="run-out">run out<a title="#run-out" href="#run-out"></a></h2><blockquote><ol><li>leave it, running</li></ol></blockquote><blockquote><ol start="2"><li>If a substance runs out from somewhere, it flows from there.</li></ol></blockquote><p>eg. Water was running out from under the front door of the house.</p><h2 id="sit-down">sit down<a title="#sit-down" href="#sit-down"></a></h2><p>eg. She sat herself down beside me.</p><h2 id="stand-up">stand up<a title="#stand-up" href="#stand-up"></a></h2><p>= get up</p><h2 id="turn-back">turn back<a title="#turn-back" href="#turn-back"></a></h2><blockquote><p>stop a journey and return towards the place you started from</p></blockquote><p>eg. We were turned back by heavy snow.</p>]]></content>
     
@@ -95,9 +95,9 @@
     <link href="https://venanastasia.github.io/2020/05/09/java01/"/>
     <id>https://venanastasia.github.io/2020/05/09/java01/</id>
     <published>2020-05-09T10:46:57.000Z</published>
-    <updated>2020-05-11T08:29:13.453Z</updated>
+    <updated>2020-05-11T11:31:37.017Z</updated>
     
-    <content type="html"><![CDATA[<p>参考书目：《Java核心技术卷一基础知识（10th）》</p><a id="more"></a><h2 id="第1章-java程序设计概述">第1章 Java程序设计概述<a title="#第1章-java程序设计概述" href="#第1章-java程序设计概述"></a></h2><h2 id="第2章-java程序设计环境">第2章 Java程序设计环境<a title="#第2章-java程序设计环境" href="#第2章-java程序设计环境"></a></h2><h2 id="第3章-java的基本程序设计结构">第3章 Java的基本程序设计结构<a title="#第3章-java的基本程序设计结构" href="#第3章-java的基本程序设计结构"></a></h2><details><summary>展开</summary><ul><li><p>注释</p></li><li><p>数据类型</p><details><summary>展开</summary>  整型；浮点类型；char类型；Unicode和char类型；boolean类型</details></li><li><p>变量</p></li><li><p>运算符</p></li><li><p>字符串</p></li><li><p>输入输出</p><details><summary>展开</summary>读取输入；格式化输入；文件输入与输出</details></li><li><p>控制流程</p></li><li><p>大数值</p></li><li><p>数组</p></li></ul></details><h2 id="第4章-对象与类">第4章 对象与类<a title="#第4章-对象与类" href="#第4章-对象与类"></a></h2><details><summary>展开</summary><ul><li>面向对象程序设计概述</li><li>使用预定义类</li><li>用户自定义类</li><li>静态域与静态方法</li><li>方法参数</li><li>对象构造</li><li>包</li><li>类路径</li><li>文档注释</li><li>类设计技巧</li></ul></details><h2 id="第5章-继承">第5章 继承<a title="#第5章-继承" href="#第5章-继承"></a></h2><details><summary>展开</summary><ul><li>类、超类和子类</li><li>Object：所有类的超类</li><li>泛型数组列表</li><li>对象包装器与自动装箱</li><li>参数数量可变的方法</li><li>枚举类</li><li>反射</li></ul></details><h2 id="第6章-接口、lambda表达式与内部类">第6章 接口、lambda表达式与内部类<a title="#第6章-接口、lambda表达式与内部类" href="#第6章-接口、lambda表达式与内部类"></a></h2><details><summary>展开</summary><ul><li>接口</li><li>接口示例</li><li>lambda表达式</li><li>内部类</li><li>代理</li></ul></details><h2 id="第7章-异常、断言和日志">第7章 异常、断言和日志<a title="#第7章-异常、断言和日志" href="#第7章-异常、断言和日志"></a></h2>]]></content>
+    <content type="html"><![CDATA[<p>参考书目：《Java核心技术卷一基础知识（10th）》</p><a id="more"></a><h2 id="第1章-java程序设计概述">第1章 Java程序设计概述<a title="#第1章-java程序设计概述" href="#第1章-java程序设计概述"></a></h2><h2 id="第2章-java程序设计环境">第2章 Java程序设计环境<a title="#第2章-java程序设计环境" href="#第2章-java程序设计环境"></a></h2><h2 id="第3章-java的基本程序设计结构">第3章 Java的基本程序设计结构<a title="#第3章-java的基本程序设计结构" href="#第3章-java的基本程序设计结构"></a></h2><details><summary>展开</summary><ul><li><p>注释</p></li><li><p>数据类型</p><details><summary>展开</summary>  整型；浮点类型；char类型；Unicode和char类型；boolean类型</details></li><li><p>变量</p></li><li><p>运算符</p></li><li><p>字符串</p></li><li><p>输入输出</p><details><summary>展开</summary>读取输入；格式化输入；文件输入与输出</details></li><li><p>控制流程</p></li><li><p>大数值</p></li><li><p>数组</p></li></ul></details><h2 id="第4章-对象与类">第4章 对象与类<a title="#第4章-对象与类" href="#第4章-对象与类"></a></h2><details><summary>展开</summary><ul><li>面向对象程序设计概述</li><li>使用预定义类</li><li>用户自定义类</li><li>静态域与静态方法</li><li>方法参数</li><li>对象构造</li><li>包</li><li>类路径</li><li>文档注释</li><li>类设计技巧</li></ul></details><h2 id="第5章-继承">第5章 继承<a title="#第5章-继承" href="#第5章-继承"></a></h2><details><summary>展开</summary><ul><li>类、超类和子类</li><li>Object：所有类的超类</li><li>泛型数组列表</li><li>对象包装器与自动装箱</li><li>参数数量可变的方法</li><li>枚举类</li><li>反射</li></ul></details><h2 id="第6章-接口、lambda表达式与内部类">第6章 接口、lambda表达式与内部类<a title="#第6章-接口、lambda表达式与内部类" href="#第6章-接口、lambda表达式与内部类"></a></h2><details><summary>展开</summary><ul><li>接口</li><li>接口示例</li><li>lambda表达式</li><li>内部类</li><li>代理</li></ul></details><h2 id="第7章-异常、断言和日志">第7章 异常、断言和日志<a title="#第7章-异常、断言和日志" href="#第7章-异常、断言和日志"></a></h2><details><summary>展开</summary><ul><li>处理错误</li><li>捕获异常</li><li>使用异常机制的技巧</li><li>使用断言</li><li>记录日志</li><li>调试技巧</li></ul></details>]]></content>
     
     <summary type="html">
     
@@ -143,11 +143,11 @@
   </entry>
   
   <entry>
-    <title>软件工程重点总结</title>
+    <title>软件工程 | 知识点自查手册</title>
     <link href="https://venanastasia.github.io/2020/03/19/sekey/"/>
     <id>https://venanastasia.github.io/2020/03/19/sekey/</id>
     <published>2020-03-19T03:19:41.000Z</published>
-    <updated>2020-04-10T13:47:41.112Z</updated>
+    <updated>2020-05-11T11:33:43.905Z</updated>
     
     <content type="html"><![CDATA[<p>参考书目：《软件工程导论（第5版）》张海藩著</p><a id="more"></a>]]></content>
     
@@ -168,11 +168,11 @@
   </entry>
   
   <entry>
-    <title>操作系统重点总结</title>
+    <title>操作系统 | 知识点自查手册</title>
     <link href="https://venanastasia.github.io/2020/03/19/oskey/"/>
     <id>https://venanastasia.github.io/2020/03/19/oskey/</id>
     <published>2020-03-19T03:19:18.000Z</published>
-    <updated>2020-04-10T13:48:42.878Z</updated>
+    <updated>2020-05-11T11:33:38.122Z</updated>
     
     <content type="html"><![CDATA[<p>参考书目：《操作系统教程（第5版）》费翔林 骆斌著</p><a id="more"></a>]]></content>
     
@@ -193,11 +193,11 @@
   </entry>
   
   <entry>
-    <title>数据库重点总结</title>
+    <title>数据库 | 知识点自查手册</title>
     <link href="https://venanastasia.github.io/2020/03/19/dbkey/"/>
     <id>https://venanastasia.github.io/2020/03/19/dbkey/</id>
     <published>2020-03-19T03:19:03.000Z</published>
-    <updated>2020-04-10T13:49:50.057Z</updated>
+    <updated>2020-05-11T11:32:55.150Z</updated>
     
     <content type="html"><![CDATA[<p>参考书目：《数据库系统概论（第5版）》王珊 萨师煊著</p><a id="more"></a>]]></content>
     
@@ -218,11 +218,11 @@
   </entry>
   
   <entry>
-    <title>计算机网络重点总结</title>
+    <title>计算机网络 | 知识点自查手册</title>
     <link href="https://venanastasia.github.io/2020/03/19/netkey/"/>
     <id>https://venanastasia.github.io/2020/03/19/netkey/</id>
     <published>2020-03-19T03:18:41.000Z</published>
-    <updated>2020-04-10T13:10:10.352Z</updated>
+    <updated>2020-05-11T11:33:32.565Z</updated>
     
     <content type="html"><![CDATA[<p>参考书目：《计算机网络（第7版）》谢希仁著</p><a id="more"></a>]]></content>
     
